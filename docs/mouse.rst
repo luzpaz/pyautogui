@@ -145,7 +145,7 @@ For example:
 
 These tweening functions are copied from Al Sweigart's PyTweening module: https://pypi.python.org/pypi/PyTweening https://github.com/asweigart/pytweening This module does not have to be installed to use the tweening functions.
 
-If you want to create your own tweening function, define a function that takes a single float argument between ``0.0`` (representing the start of the mouse travelling) and ``1.0`` (representing the end of the mouse travelling) and returns a float value between ``0.0`` and ``1.0``.
+If you want to create your own tweening function, define a function that takes a single float argument between ``0.0`` (representing the start of the mouse traveling) and ``1.0`` (representing the end of the mouse traveling) and returns a float value between ``0.0`` and ``1.0``.
 
 Mouse Clicks
 ============
